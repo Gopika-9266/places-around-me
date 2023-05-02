@@ -40,9 +40,9 @@ Map.html:
 </map>
 </center>
 </body>
-```
 
-```
+
+
 College.html:
 
 <!DOCTYPE html>
@@ -67,9 +67,9 @@ The Thanthai Periyar Government Institute of Technology is a government engineer
 </p>
 </body>
 </html>
-```
 
-```
+
+
 Fort.html:
 
 <!DOCTYPE html>
@@ -94,9 +94,9 @@ Vellore Fort is a large 16th-century fort situated in heart of the Vellore city,
 </p>
 </body>
 </html>
-```
 
-```
+
+
 Temple.html:
 
 <!DOCTYPE html>
@@ -121,9 +121,9 @@ Golden Temple Vellore complex inside the Thirupuram spiritual park is situated a
 </p>
 </body>
 </html>
-```
 
-```
+
+
 Hospital.html:
 
 <!DOCTYPE html>
@@ -148,9 +148,9 @@ Christian Medical College, Vellore, widely known as CMC, Vellore, is a private, 
 </p>
 </body>
 </html>
-```
 
-```
+
+
 Hills.html
 
 <!DOCTYPE html>
@@ -200,6 +200,7 @@ The Palamathi Hills are an extension of the Eastern Ghats spread across southeas
 
 
 ![Screenshot (125)](https://user-images.githubusercontent.com/122762773/235729052-6f54e3cc-7841-4fe6-980c-a4f5022b5a3c.png)
+
 
 ## Result:
 Thus A website to display details about the places in map is successfully executed and displayed.
